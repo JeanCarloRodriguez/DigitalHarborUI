@@ -1,0 +1,6 @@
+.settings/
+target/
+report/
+src/main/resources/
+.classpath
+.project
